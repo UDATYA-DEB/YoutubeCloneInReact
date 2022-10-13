@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb1de3f5.css",
+    "main.js": "/static/js/main.a8f677fc.js",
+    "static/media/thumbnail3.jpg": "/static/media/thumbnail3.7e72861af89b14bf55e5.jpg",
+    "static/media/thumbnail-6.webp": "/static/media/thumbnail-6.ecd9765c2c689e11e34e.webp",
+    "static/media/thumbnail-1.webp": "/static/media/thumbnail-1.bb942eddb573c986ed15.webp",
+    "static/media/thumbnail-3.webp": "/static/media/thumbnail-3.20276f5488a3fbc110dc.webp",
+    "static/media/thumbnail-2.webp": "/static/media/thumbnail-2.bca3eea080c9653e7a78.webp",
+    "static/media/thumbnail-4.webp": "/static/media/thumbnail-4.515c6eefa6c76fbdfe76.webp",
+    "static/media/thumbnail-5.webp": "/static/media/thumbnail-5.f6920c72353833d19e41.webp",
+    "static/media/youtube-logo.svg": "/static/media/youtube-logo.9291a5ba5d47d17aea29a5a92ec53ccb.svg",
+    "static/media/originals.svg": "/static/media/originals.a82b45c581a87f002026098879df8b9a.svg",
+    "static/media/explore.svg": "/static/media/explore.26136e1e0160c8689e040db7caff48ec.svg",
+    "index.html": "/index.html",
+    "static/media/notifications.svg": "/static/media/notifications.981b562e9bcf1e4490a055b21a34cb90.svg",
+    "static/media/youtube-apps.svg": "/static/media/youtube-apps.194dd9b5ea3ea5a3048e25a79ea15252.svg",
+    "static/media/voice-search-icon.svg": "/static/media/voice-search-icon.7dd8ccdaaecd55abce1399821333c4fd.svg",
+    "static/media/search.svg": "/static/media/search.84233dd1401cd3f098651050a0c75248.svg",
+    "static/media/youtube-music.svg": "/static/media/youtube-music.7953fad36cd031049de4315f2dbfb5c5.svg",
+    "static/media/upload.svg": "/static/media/upload.f1212dac8906736b57aaf0c86788795d.svg",
+    "static/media/subscriptions.svg": "/static/media/subscriptions.8562c5f5ef9c4b7a01757dbcff29c833.svg",
+    "static/media/library.svg": "/static/media/library.f6b4e766de363d145e6a168fa421605a.svg",
+    "static/media/hamburger-menu.svg": "/static/media/hamburger-menu.50abb8375e3fbf32ace8774bc1bd3b33.svg",
+    "static/media/home.svg": "/static/media/home.d87ffb075560521c8a8b21a49322da2d.svg",
+    "main.cb1de3f5.css.map": "/static/css/main.cb1de3f5.css.map",
+    "main.a8f677fc.js.map": "/static/js/main.a8f677fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1de3f5.css",
+    "static/js/main.a8f677fc.js"
+  ]
+}
